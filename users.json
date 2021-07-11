@@ -1,0 +1,116 @@
+{
+    "results": [
+        {
+            "gender": "male",
+            "name": {
+                "title": "Mr",
+                "first": "Tristan",
+                "last": "Barnaby"
+            },
+            "location": {
+                "street": {
+                    "number": 4372,
+                    "name": "Vimy St"
+                },
+                "city": "Odessa",
+                "state": "Alberta",
+                "country": "Canada",
+                "postcode": "U5S 1B1",
+                "coordinates": {
+                    "latitude": "-58.2825",
+                    "longitude": "-97.0753"
+                },
+                "timezone": {
+                    "offset": "+9:30",
+                    "description": "Adelaide, Darwin"
+                }
+            },
+            "email": "tristan.barnaby@example.com",
+            "login": {
+                "uuid": "e1e6ea00-ed0a-4171-bcf2-d7e35003336b",
+                "username": "whitecat853",
+                "password": "shadows",
+                "salt": "5ZdPhBeR",
+                "md5": "02498f7b75e6bb4ddf4e70cdd2dfe1e5",
+                "sha1": "1a7dbfba4ef20fa122bfad79651654a6059c8988",
+                "sha256": "535cae64c0976c60298667c4b6c353307cf75e1430101340071215e5aeb1ba61"
+            },
+            "dob": {
+                "date": "1971-05-23T09:59:27.543Z",
+                "age": 50
+            },
+            "registered": {
+                "date": "2018-01-13T15:01:18.223Z",
+                "age": 3
+            },
+            "phone": "300-222-3665",
+            "cell": "396-292-5680",
+            "id": {
+                "name": "",
+                "value": null
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/18.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/18.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/18.jpg"
+            },
+            "nat": "CA"
+        },
+        {
+            "gender": "male",
+            "name": {
+                "title": "Mr",
+                "first": "Georgio",
+                "last": "Şahin"
+            },
+            "location": {
+                "street": {
+                    "number": 7701,
+                    "name": "Hoogerheide"
+                },
+                "city": "Warten",
+                "state": "Gelderland",
+                "country": "Netherlands",
+                "postcode": 83254,
+                "coordinates": {
+                    "latitude": "21.8152",
+                    "longitude": "2.4063"
+                },
+                "timezone": {
+                    "offset": "-2:00",
+                    "description": "Mid-Atlantic"
+                }
+            },
+            "email": "georgio.sahin@example.com",
+            "login": {
+                "uuid": "5ea3e39a-e0c9-4b21-ab05-f6cce4d03f08",
+                "username": "purplebear355",
+                "password": "clyde",
+                "salt": "dn8dF8uX",
+                "md5": "628859451871cf146126f0cb2b485731",
+                "sha1": "7022769e15ae1503cba37cdeaa50ed50e2b48639",
+                "sha256": "1c59d0e9c7a632afce36f46d375d695963d04a572092949e8a91f064771bb825"
+            },
+            "dob": {
+                "date": "1972-07-16T21:54:27.010Z",
+                "age": 49
+            },
+            "registered": {
+                "date": "2008-10-14T02:20:35.813Z",
+                "age": 13
+            },
+            "phone": "(484)-442-3377",
+            "cell": "(820)-391-2170",
+            "id": {
+                "name": "BSN",
+                "value": "99789029"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/29.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/29.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/29.jpg"
+            },
+            "nat": "NL"
+        }
+    ]
+}
