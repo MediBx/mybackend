@@ -105,6 +105,8 @@ app.get('/goodevening', (req, res) => {
 
 app.use(express.static('public'));
 //=========================
-app.listen(3007, function () {
-    console.log('My app is listening on port 3007!');
+const port = process.env.PORT || 3001;
+
+app.listen(port, function () {
+    console.log(`My app is listening on port ${port}!`);
 });
